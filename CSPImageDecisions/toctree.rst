@@ -10,4 +10,5 @@
    .. imageMultIf.rst
    .. ch15_summary.rst
    ch15_exercises.rst
+   ch15-2_exercises.rst
    .. exam14a15.rst
