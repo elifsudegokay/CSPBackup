@@ -68,7 +68,7 @@ CS Principles: Big Ideas In Programming ~ Bilgisayar Bilimleri Temelleri : Progr
    .. CSPRepeatImages/toctree.rst
 
 
-5. BÖLÜM: İŞLEVLER VE YORDAMLAR
+5. BÖLÜM: YORDAM VE İŞLEVLERİN İSİMLENDİRİLİP ÇAĞRILMASI
 :::::::::::::::::::::::::
    
 .. toctree::
@@ -77,12 +77,13 @@ CS Principles: Big Ideas In Programming ~ Bilgisayar Bilimleri Temelleri : Progr
    CSPNameNames/toctree.rst
 
 
-6. BÖLÜM: TURTLE
+6. BÖLÜM: KÜTÜPHANELER İLE ÇALIŞMA
 ::::::::::::::::::::::::::::::::::::::::::::
 
 .. toctree::
    :maxdepth: 3
    
    CSPImageDecisions/toctree.rst
+   CSPWebData/toctree.rst
 
 
