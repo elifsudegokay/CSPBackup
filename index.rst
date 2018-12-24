@@ -86,4 +86,13 @@ CS Principles: Big Ideas In Programming ~ Bilgisayar Bilimleri Temelleri : Progr
    CSPImageDecisions/toctree.rst
    CSPWebData/toctree.rst
 
+7. BÖLÜM: GENEL TEKRAR
+::::::::::::::::::::::::::::::::::::::::::::
+
+.. toctree::
+   :maxdepth: 3
+
+   CSPReview/toctree.rst
+   
+
 
